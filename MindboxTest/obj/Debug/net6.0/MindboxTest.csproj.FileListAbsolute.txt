@@ -1,0 +1,12 @@
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.deps.json
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.dll
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.pdb
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.csproj.AssemblyReference.cache
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.AssemblyInfoInputs.cache
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.AssemblyInfo.cs
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.csproj.CoreCompileInputs.cache
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.dll
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\refint\MindboxTest.dll
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.pdb
+C:\Users\BRZ\source\repos\MindboxTest\MindboxTest\obj\Debug\net6.0\ref\MindboxTest.dll

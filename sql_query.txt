@@ -1,0 +1,10 @@
+(SELECT c.NAME [category], p.NAME [product] FROM CATEGORY_PRODUCT cp
+INNER JOIN
+Categories c ON c.ID = cp.ID_CATEGORY
+INNER JOIN
+Products p ON p.ID = cp.ID_PRODUCT)
+
+UNION
+
+(SELECT '' [category], p.NAME [product] FROM Products p
+WHERE p.ID NOT IN (SELECT cp.ID_PRODUCT FROM CATEGORY_PRODUCT cp))
